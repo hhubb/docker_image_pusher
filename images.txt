@@ -1,2 +1,1 @@
---platform=linux/amd64 nginx
-registry.k8s.io/scheduler-plugins/kube-scheduler:v0.26.7
+--platform=linux/amd64 apache/doris:build-env-ldb-toolchain-latest
