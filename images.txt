@@ -1,1 +1,1 @@
---platform=linux/amd64 apache/doris:build-env-ldb-toolchain-latest
+ docker.io/istio/examples-bookinfo-details-v1:1.19.1
