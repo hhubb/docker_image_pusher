@@ -1,1 +1,1 @@
- docker.io/istio/examples-bookinfo-details-v1:1.19.1
+ docker.io/nginx:latest
