@@ -1,1 +1,1 @@
-docker.io/istio/examples-bookinfo-reviews-v3:1.19.1
+docker.io/istio/pilot:1.22.1
