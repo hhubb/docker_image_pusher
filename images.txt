@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest-fat
+grafana/grafana:9.5.5
