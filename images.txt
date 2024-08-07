@@ -1,1 +1,1 @@
-grafana/loki:2.7.3
+nginx:latest
