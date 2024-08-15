@@ -1,1 +1,1 @@
-labring/kubernetes:v1.18.3-4.1.5
+labring/kubernetes-docker:v1.18.20-4.3.7-amd64
