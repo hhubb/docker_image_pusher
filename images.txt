@@ -1,4 +1,4 @@
-calico/kube-controllers:v3.12.2
-calico/cni:v3.12.2
-calico/pod2daemon-flexvol:v3.12.2
-calico/node:v3.12.2
+docker.io/calico/kube-controllers:v3.17.1
+docker.io/calico/cni:v3.17.1
+docker.io/calico/pod2daemon-flexvol:v3.17.1
+docker.io/calico/node:v3.17.1
