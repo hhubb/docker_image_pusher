@@ -1,1 +1,4 @@
-labring/kubernetes-docker:v1.18.20-4.3.7-amd64
+calico/kube-controllers:v3.12.2
+calico/cni:v3.12.2
+calico/pod2daemon-flexvol:v3.12.2
+calico/node:v3.12.2
