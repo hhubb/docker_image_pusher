@@ -1,1 +1,4 @@
-registry.k8s.io/cpa/cluster-proportional-autoscaler:1.8.4
+--platform=linux/arm64 docker.io/calico/kube-controllers:v3.17.1
+--platform=linux/arm64 docker.io/calico/cni:v3.17.1
+--platform=linux/arm64 docker.io/calico/pod2daemon-flexvol:v3.17.1
+--platform=linux/arm64 docker.io/calico/node:v3.17.1
