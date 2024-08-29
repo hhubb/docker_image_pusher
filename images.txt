@@ -1,4 +1,1 @@
---platform=linux/arm64 docker.io/calico/kube-controllers:v3.17.1
---platform=linux/arm64 docker.io/calico/cni:v3.17.1
---platform=linux/arm64 docker.io/calico/pod2daemon-flexvol:v3.17.1
---platform=linux/arm64 docker.io/calico/node:v3.17.1
+registry.k8s.io/node-problem-detector:v0.1
