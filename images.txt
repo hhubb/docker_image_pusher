@@ -1,1 +1,1 @@
-gcr.io/distroless/java17-debian12:noroot
+gcr.io/distroless/java17-debian12:nonroot
