@@ -1,1 +1,1 @@
-openjdk:17-ea-jdk-slim
+openjdk:23-ea-17-jdk-bullseye
