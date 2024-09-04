@@ -1,1 +1,1 @@
-louislam/uptime-kuma:1
+openjdk:17-ea-jdk-slim
