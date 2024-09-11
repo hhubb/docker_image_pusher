@@ -1,1 +1,1 @@
---platform=arm64 bitnami/clickhouse:24.8.4
+--platform=amd64 islandora/activemq
