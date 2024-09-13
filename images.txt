@@ -1,1 +1,1 @@
---platform=arm64 bitnami/clickhouse:23.8.16
+--platform=arm64 bitnami/clickhouse:22.8.21
