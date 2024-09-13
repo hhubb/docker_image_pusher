@@ -1,1 +1,1 @@
---platform=arm64 busybox:1.28
+--platform=arm64 zookeeper:3.7.1
