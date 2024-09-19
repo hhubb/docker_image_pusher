@@ -1,1 +1,1 @@
---platform=arm64 bitnami/clickhouse:22.8.21
+registry.k8s.io/hpa-example
