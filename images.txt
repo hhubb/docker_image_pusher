@@ -1,1 +1,1 @@
-registry.k8s.io/hpa-example
+busybox:1.28 
