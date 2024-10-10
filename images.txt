@@ -1,1 +1,1 @@
-docker.io/kong/httpbin:latest
+fortio/fortio:latest_release
