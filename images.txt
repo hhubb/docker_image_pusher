@@ -1,1 +1,1 @@
-nginx:1.27.2
+docker.io/kong/httpbin:latest
