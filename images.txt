@@ -1,1 +1,1 @@
-bitnami/postgresql:latest
+postgres:13
