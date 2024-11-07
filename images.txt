@@ -1,1 +1,1 @@
---platform=linux/arm64 yangqiyong/jdk:1.8
+mysql:8.4
