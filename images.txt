@@ -1,1 +1,1 @@
-mysql:8.4
+bitnami/mysql:8.4
