@@ -1,1 +1,2 @@
-atmoz/sftp:latest
+--platform=linux/arm64
+openeuler/openeuler:22.03-lts-sp1
