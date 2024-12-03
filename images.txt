@@ -1,1 +1,1 @@
---platform=linux/arm/v6 busybox:1.37.0-musl
+--platform=linux/arm64 openeuler/openeuler:22.03-lts-sp3
