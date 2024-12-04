@@ -1,1 +1,1 @@
---platform=linux/arm64 openeuler/openeuler:22.03-lts-sp3
+--platform=linux/arm64 moby/buildkit:buildx-stable-1
