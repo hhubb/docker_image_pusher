@@ -1,1 +1,1 @@
---platform=linux/arm64 kasmweb/libre-office:1.16.0-rolling-daily
+--platform=linux/amd64 openeuler/openeuler:22.03-lts-sp1
