@@ -1,1 +1,1 @@
---platform=linux/arm64 moby/buildkit:buildx-stable-1
+--platform=linux/arm64 kasmweb/libre-office:1.16.0-rolling-daily
