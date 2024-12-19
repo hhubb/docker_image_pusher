@@ -1,1 +1,1 @@
---platform=linux/amd64 openeuler/openeuler:22.03-lts-sp1
+rancher/pause:3.6
