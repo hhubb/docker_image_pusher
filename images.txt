@@ -1,1 +1,1 @@
-rancher/pause:3.6
+openjdk:8
