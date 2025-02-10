@@ -1,1 +1,1 @@
-quay.io/kata-containers/kata-monitor:2.0.0
+ghcr.io/open-webui/open-webui:ollama
