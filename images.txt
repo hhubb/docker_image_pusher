@@ -1,1 +1,1 @@
- nginx:stable-alpine3.20-perl
+gitlab-ce:17.2.8-ce.0
